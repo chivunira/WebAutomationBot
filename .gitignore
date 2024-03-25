@@ -17,6 +17,7 @@
 # exclude entry flow and logs
 /rpa_python
 /rpa_python.log
+/rpa_python.log.tmp
 /rpa_python.raw
 /rpa_python.js
 
@@ -27,3 +28,4 @@
 /tagui_local.js
 
 .idea
+.env
